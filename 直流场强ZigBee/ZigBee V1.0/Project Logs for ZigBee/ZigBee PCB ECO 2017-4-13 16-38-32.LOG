@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3V3 Pin=Designator2-1
+Removed Pin From Net: NetName=GND Pin=Designator2-2
+Removed Pin From Net: NetName=RSTW Pin=R15-1
+Change Net Name : Old Net Name=RSTW New Net Name=NetC13_2
+Added Pin To Net: NetName=RSTW Pin=R15-1
+Added Pin To Net: NetName=RSTW Pin=U3-22
+Added Net: Name=RSTW

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=Designator2-1
+Removed Pin From Net: NetName=GND Pin=Designator2-2
+Change Component Footprint: Designator=BT1 Old Footprint=XH-2.54-2 New Footprint=VH-3.96-2

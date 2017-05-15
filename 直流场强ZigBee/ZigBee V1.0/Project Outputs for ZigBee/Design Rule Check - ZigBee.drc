@@ -1,0 +1,56 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\wwww\Desktop\ZigBee\ZigBee V1.0\ZigBee.PcbDoc
+Date     : 2017/4/20
+Time     : 17:50:13
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: Pad J1-BO1(4002.66mil,353.643mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad J1-BO2(3684.462mil,671.841mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-0(1960.575mil,-3462.087mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-0(3956.693mil,0mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-0(0mil,0mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-0(0mil,-2307.087mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-0(3956.693mil,-2307.087mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad P3-0(3005.142mil,-809.372mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad P3-0(2965.575mil,-483.585mil)  Multi-Layer
+Rule Violations :9
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Inpolygon),(All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Time Elapsed        : 00:00:01
